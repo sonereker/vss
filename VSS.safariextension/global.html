@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>View Style Sheets</title>
+	<script type="text/javascript" charset="utf-8">
+		function respondToViewStylesheets(e) {
+			safari.application.activeBrowserWindow.activeTab.page.dispatchMessage("VSS", "show");
+		}
+		safari.application.addEventListener("command", respondToViewStylesheets, false);
+	</script>
+</head>
+<body>
+</body>
+</html>

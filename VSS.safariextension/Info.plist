@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Soner Eker</string>
+	<key>CFBundleDisplayName</key>
+	<string>View Style Sheets</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.sonereker.vss</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict>
+		<key>Context Menu Items</key>
+		<array>
+			<dict>
+				<key>Command</key>
+				<string></string>
+				<key>Identifier</key>
+				<string>viewStyleSheets</string>
+				<key>Title</key>
+				<string>View Style Sheets</string>
+			</dict>
+		</array>
+		<key>Global Page</key>
+		<string>global.html</string>
+	</dict>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>vss.js</string>
+			</array>
+		</dict>
+		<key>Stylesheets</key>
+		<array>
+			<string>vss.css</string>
+		</array>
+	</dict>
+	<key>Description</key>
+	<string>View stylesheets of current website with single click.</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://sonereker.com/labs/vss/update.plist</string>
+	<key>Website</key>
+	<string>http://sonereker.com/labs/vss/</string>
+</dict>
+</plist>

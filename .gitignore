@@ -1,0 +1,9 @@
+.DS_Store
+/code/log/*.log
+/code/tmp/**/*
+/code/.rspec
+/code/.bundle
+/code/vendor/bundle
+/code/public/system/*
+/spec/tmp/*
+**.orig
