@@ -61,6 +61,6 @@
 	<key>Update Manifest URL</key>
 	<string>http://sonereker.com/labs/vss/update.plist</string>
 	<key>Website</key>
-	<string>http://sonereker.com/labs/vss/</string>
+	<string>https://github.com/sonereker/vss</string>
 </dict>
 </plist>
