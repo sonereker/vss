@@ -1,6 +1,6 @@
-**Deprecated!** Extension was removed from Safari Extension Gallery after a major upgrade and is no longer maintained.
-
 # VSS
+
+## Deprecated! — Extension was removed from Safari Extension Gallery after a major upgrade and is no longer maintained.
 
 ![image](VSS.safariextension/Icon-64.png)
 
