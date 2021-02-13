@@ -1,4 +1,6 @@
-# VSS &mdash; View Style Sheets
+**Deprecated!** Extension was removed from Safari Extension Gallery after a major upgrade and is no longer maintained.
+
+# VSS
 
 ![image](VSS.safariextension/Icon-64.png)
 
